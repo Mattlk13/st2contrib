@@ -1,1 +1,1 @@
-python-gnupg>=0.3.7,<0.4
+python-gnupg>=0.3.7,<0.6
